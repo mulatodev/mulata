@@ -3,3 +3,9 @@ body
 	text-align: center;
 	font-family: "Arial";
 }
+
+#ejemplo{
+	font-size: 40px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-style: italic;
+}
