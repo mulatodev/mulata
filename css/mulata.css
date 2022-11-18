@@ -9,3 +9,8 @@ body
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	font-style: italic;
 }
+
+#cabecera{
+	font-size: 80px;
+	background-color: brown;
+}
